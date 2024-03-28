@@ -1,9 +1,4 @@
----
-tags:
- - sentence-similarity
----
-
-# Azerbaijani Sentence Similarity Based on BERT - Model Description
+# Azerbaijani Sentence Similarity Based on BERT
 
 This model is developed by Alas Development Center and is tailored for the specific use case of sentence similarity in the Azerbaijani language. It employs the bert-base-multilingual-cased architecture, fine-tuned on a Azerbaijani sentence similarity dataset. The primary function of this model is to predict the similarity score between two sentences, which can be highly beneficial in various NLP applications such as information retrieval, question answering, and content analysis.
 
@@ -29,16 +24,11 @@ The dataset categorizes sentence pairs into two distinct classes based on their 
 
 # Use and Access
 
-This model is shared open source and is intended for wide usage across different applications where understanding sentence similarity in Azerbaijani is crucial. It can be especially useful for developers and researchers working on Azerbaijani language processing tasks.
-
+This model is shared open source and is intended for wide usage across different applications where understanding sentence similarity in Azerbaijani is crucial. It can be especially useful for developers and researchers working on Azerbaijani language processing tasks. For those interested in utilizing the Azerbaijani Sentence Similarity model developed by Alas Development Center, built on the bert-base-multilingual-cased architecture, we have prepared a comprehensive Jupyter notebook. This [notebook](https://github.com/Alas-Development-Center/az-sentence-similarity/blob/main/az-sentence-similarity.ipynb) includes instructions on loading the model, preprocessing input data and making prediction.
 
 # Acknowledgements
 
 We express our gratitude to our team who participated in the development, training, and evaluation phases of this model. Their dedication and hard work have been instrumental in advancing Azerbaijani language processing technologies.
 
 This model, used in one of our projects, was developed without the allocation of extensive resources. We believe that with more resources, a better outcome is achievable. It's worth mentioning that this model marks the first endeavor in exploring semantic similarity within the Azerbaijani language context. As such, there is considerable potential for further refinement and improvement, which could significantly enhance its performance and applicability in various fields.
-
- ## Model Plot
-
-![Model Image](./model.png)
 
